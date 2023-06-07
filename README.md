@@ -7,7 +7,7 @@ The program is a trial task designed for training purposes.
 
 ## Demo
 
-![Python Game Demo](https://github.com/Linderinn/Find_a_key_game/blob/main/Images/Blue%20Purple%20Illustration%20Pixel%20Esport%20Game%20Mobile%20Video.gif?raw=true)
+![Python Game Demo](./Images/Blue%20Purple%20Illustration%20Pixel%20Esport%20Game%20Mobile%20Video.gif?raw=true)
 
 ## How to Play
 
